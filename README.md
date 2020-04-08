@@ -7,6 +7,7 @@ Remember our SLACK channel is the fastest way to get in contact.
 ## Using Github for this class
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GY5EcZXIS_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 ## Videos
 
 Here are videos created for the intro class, but there are always a LOT more on my youtube channel.
