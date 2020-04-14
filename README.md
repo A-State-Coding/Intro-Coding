@@ -4,9 +4,14 @@ This is a repo where you will find example projects, videos, and assignments.
 This is a dedicated site for video content and tutorials, but I'll also throw other things on here!
 Remember our SLACK channel is the fastest way to get in contact.
 
+## Project Repository - Adventure Games
+Visit https://github.com/A-State-Coding/Intro-Adventure-Games
+
 ## Using Github for this class
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GY5EcZXIS_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Adding Comments for Github
+<iframe width="560" height="315" src="https://www.youtube.com/embed/76Y3rOzZt_8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Videos
 
