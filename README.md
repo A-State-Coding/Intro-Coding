@@ -5,7 +5,7 @@ This is a dedicated site for video content and tutorials, but I'll also throw ot
 Remember our SLACK channel is the fastest way to get in contact.
 
 ## Project Repository - Adventure Games
-Visit https://github.com/A-State-Coding/Intro-Adventure-Games
+Visit [The Project Repository](https://github.com/A-State-Coding/Intro-Adventure-Games)
 
 ## Using Github for this class
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GY5EcZXIS_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
