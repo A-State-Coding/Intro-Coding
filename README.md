@@ -26,5 +26,9 @@ Here are videos created for the intro class, but there are always a LOT more on 
 ### Moving content from Illustrator and XD to XCode
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MsbT4ElR6Po" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Creating Global Variables
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_hyCTEjCMzM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Creating Unwind Segues
+<iframe width="560" height="315" src="https://www.youtube.com/embed/36c3Hp1UgXY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
