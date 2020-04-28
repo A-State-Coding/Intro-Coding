@@ -37,3 +37,6 @@ Here are videos created for the intro class, but there are always a LOT more on 
 
 ### Creating Alerts
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vvthb1vJDSw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Animations and Fading in/out Images
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MyuWOJ1DI2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
