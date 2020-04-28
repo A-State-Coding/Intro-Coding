@@ -32,3 +32,8 @@ Here are videos created for the intro class, but there are always a LOT more on 
 ### Creating Unwind Segues
 <iframe width="560" height="315" src="https://www.youtube.com/embed/36c3Hp1UgXY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Creating Timers
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z4VNL83epF8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Creating Alerts
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vvthb1vJDSw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
