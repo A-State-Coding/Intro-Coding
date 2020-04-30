@@ -40,3 +40,11 @@ Here are videos created for the intro class, but there are always a LOT more on 
 
 ### Animations and Fading in/out Images
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MyuWOJ1DI2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Navigation View Controller
+<iframe width="560" height="315" src="https://www.youtube.com/embed/80MZwUo9XSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Tabbed Bar View Controllers
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z9MWxldkGmU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
